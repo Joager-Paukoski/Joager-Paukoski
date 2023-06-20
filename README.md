@@ -5,4 +5,4 @@
 - 📫 Você me encontra em: joagerp@gmail.com.
 - ⚡ Curiosidade: Sim, meu nome é a Junção entre JOAquim e GERaldo.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joager-Paukoski)](https://github.com/Joager-Paukoski)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joager-Paukoski&show_icons=true&theme=nightowl)
