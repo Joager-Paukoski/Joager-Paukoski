@@ -1,7 +1,7 @@
 ## Olá, eu sou Joager Paukoski
 
 - 🔭 Formado em Estatística, atuo com análise de dados.
-- 🌱 Sigo estudando SQL, Python e R.
+- 🌱 Sigo aprimorando os conhecimentos de programação em SQL, Python e R. 
 - 📫 Você pode me contatar em: joagerp@gmail.com.
 - ⚡ Curiosidade: Sim, meu nome é a junção entre JOAquim e GERaldo.
 
