@@ -5,8 +5,9 @@
 - 📫 Você pode me contatar em: joagerp@gmail.com.
 - ⚡ Curiosidade: Sim, meu nome é a junção entre JOAquim e GERaldo.
 
-<div>
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=Joager-Paukoski&show_icons=true&theme=nightowl"/>
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joager-Paukoski&show_icons=true&theme=nightowl&layout=compact"/>
-</div>
-
+<a href="https://github.com/Joager-Paukoski/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Joager-Paukoski&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/Joager-Paukoski/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joager-Paukoski&show_icons=true&theme=github_dark&hide_title=False" />
+</a>
